@@ -7,20 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the page to host works in progress and completed work.
 
-This is a personal website to host my writing :0
+This is a personal website to host works in progress, completed projects, and teaching materials
 ======
-This is cool :0 
-
-So Crazy
-======
-Very simple
-
-I have a website
-------
-Amazing
 
 About me
 ------
-I'm a 24 year old Sociology student at the University of Massachusetts at Boston, here I will dump my school work and some blog posts.
+I'm a Second year Master's student in Applied Sociology at the University of Massachusetts at Boston. My primary focuses are Race and Racism, Intersectionality, Labor and Social reproduction.
